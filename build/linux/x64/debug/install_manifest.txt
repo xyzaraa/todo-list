@@ -1,0 +1,13 @@
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/note_keep
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/lib/liburl_launcher_linux_plugin.so
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/lib/libwindow_to_front_plugin.so
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/harsh/flutter/To-Do-App/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
