@@ -81,6 +81,9 @@ class _AddTodoScreenState extends State<AddTodoScreen> {
                   Navigator.pop(context);
                 },
                 child: const Text("Add Todo"),
+                style: ElevatedButton.styleFrom(
+              primary: const Color.fromARGB(255, 133, 171, 190), // Warna latar belakang button
+            ),
               )
             ],
           ),

@@ -110,7 +110,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(50.0),
                     ),
-                    backgroundColor: Color.fromARGB(255, 162, 117, 80), // Ganti warna sesuai keinginan Anda
+                    backgroundColor: Color.fromARGB(255, 128, 158, 186), // Ganti warna sesuai keinginan Anda
                   ),
                   child: const Padding(
                     padding: EdgeInsets.all(12.0),
@@ -134,7 +134,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 child: Center(
                   child: Text(
                     "Don't have an account? Sign up",
-                    style: TextStyle(color: Color.fromARGB(255, 162, 117, 80)),
+                    style: TextStyle(color: Colors.black54),
                   ),
                 ),
               ),

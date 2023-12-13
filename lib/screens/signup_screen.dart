@@ -110,7 +110,7 @@ class _SignupScreenState extends State<SignupScreen> {
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(50.0),
                     ),
-                    backgroundColor: Color.fromARGB(255, 162, 117, 80),
+                    backgroundColor: Color.fromARGB(255, 128, 158, 186),
                   ),
                   child: const Padding(
                     padding: EdgeInsets.all(12.0),
@@ -133,7 +133,7 @@ class _SignupScreenState extends State<SignupScreen> {
                 },
                 child: Center(
                   child: Text("Already have an account? Log In",
-                  style: TextStyle(color: Color.fromARGB(255, 162, 117, 80)),
+                  style: TextStyle(color: Colors.black54),
                   ),
                 ),
               )
